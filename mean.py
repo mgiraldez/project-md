@@ -8,3 +8,5 @@ for num in open('data.txt'):
 	n +=1
 print sum/n
 #comment
+
+## Hi! I'm just writting a comment!! Did not modify anything else!! :-)
