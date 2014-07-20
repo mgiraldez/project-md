@@ -3,8 +3,9 @@ import sys
 sum = 0
 n = 0
 #sum input values
-for numberLine in open('data.txt'):
-	sum+=float(numberLineø)
+for number in open('data.txt'):
+	sum+=float(number)
+	new_change
 	n +=1
 print sum/n
 #comment
